@@ -13,8 +13,8 @@ Refactored code to be more accessible for users, and easier to read for future d
 * Added comments to codebase for better readability.
 
 ## Screenshots: 
-![header and hero]()
-![main, aside, and footer]()
+![header and hero](https://github.com/Coollin162/Horiseon/blob/main/assets/screenshots/horiseon_head.png?raw=true)
+![main, aside, and footer](https://github.com/Coollin162/Horiseon/blob/main/assets/screenshots/horizeon_foot.png?raw=true)
 
 ## Link:
-[Refactored Horiseon Landing Page]()
+[Refactored Horiseon Landing Page](https://coollin162.github.io/Horiseon/)
